@@ -7,6 +7,7 @@
 5. [打击三围-台湾棒球维基馆](http://twbsball.dils.tku.edu.tw/wiki/index.php/%E6%89%93%E6%93%8A%E4%B8%89%E5%9C%8D)
 6. [如何计算长打率](http://www.wikihow.com/Calculate-Slugging-Percentage)
 7. [纯长打率-维基百科](https://zh.wikipedia.org/wiki/%E7%B4%94%E9%95%B7%E6%89%93%E7%8E%87)
+8. [数据集官网](http://www.seanlahman.com/baseball-archive/statistics/)
 
 ## 数据项介绍
 #### `beating_df`
